@@ -2,14 +2,14 @@
 
 TAREAS DE FUNDAMENTOS DE PROGRAMACIÓN
 
-INSTITUCIÓN: UNIVERSIDAD ESTATAL AMAZONICA
+Institución: Universidad Estatal Amazonica
 
-CARRERA:TECNOLOGÍAS DE LA INFORMACIÓN
+Carrera:Tecnologías de la Información
 
-DOCENTE:WALTER NUÑEZ
+Docente:Walter Nuñez
 
-ESTUDIANTE: KARINA RUMIPAMBA
+Estudiante: Karina Rumipamba
 
-SEMESTRE: PRIMER SEMESTRE
+Semestre: Primer Semestre
 
 
