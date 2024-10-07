@@ -22,7 +22,6 @@ print("contenido completo usando read():")
 print(contenido_completo)
 archivo_lectura=open(file_name,"r")
 
-#metodo readline() : lee
 contenido_completo=archivo_lectura.read()
 print("contenido completo usando read():")
 print(contenido_completo)
