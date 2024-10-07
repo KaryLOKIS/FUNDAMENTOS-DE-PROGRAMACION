@@ -1,0 +1,3 @@
+linea 1:Me llamo Karina
+linea 2:Estudio en la Universidad Estatal Amazonica
+linea 3:En mis tiempos libres me gusta salir a pasear para distraerme
