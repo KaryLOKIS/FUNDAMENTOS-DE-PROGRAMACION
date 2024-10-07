@@ -40,7 +40,7 @@ del informacion_personal["edad"]
 #Imprimimos el resultado sin el valor de edad
 print("todo:",informacion_personal)
 
-print("***** Impresion del Diccionario Final *****")
+print("***** Impresion del Diccionario Final   *****")
 #Imprimir el Diccionario Final: con todos las operaciones realizadas
 #recorrer con un for
 for clave,valor in informacion_personal.items():
