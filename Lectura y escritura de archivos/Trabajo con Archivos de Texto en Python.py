@@ -1,6 +1,4 @@
 #semana 16
-
-
 print("Trabajo con archivos de Texto en Python")
 
 #definimos el nombre del archivo
