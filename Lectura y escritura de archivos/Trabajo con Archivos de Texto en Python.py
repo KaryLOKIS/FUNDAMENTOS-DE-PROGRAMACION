@@ -1,5 +1,5 @@
 #semana 16
-from traceback import print_list
+
 
 print("Trabajo con archivos de Texto en Python")
 
