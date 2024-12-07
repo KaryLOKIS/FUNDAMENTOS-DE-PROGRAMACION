@@ -1,6 +1,6 @@
-# FUNDAMENTOS-DE-PROGRAMACIÓN
+# PROGRAMACION ORIENTADA A OBJETOS
 
-TAREAS DE FUNDAMENTOS DE PROGRAMACIÓN
+TAREAS DE PROGRAMACION ORIENTADA A OBJETOS
 
 Institución: Universidad Estatal Amazonica
 
@@ -10,6 +10,5 @@ Docente:Walter Nuñez
 
 Estudiante: Karina Rumipamba
 
-Semestre: Primer Semestre
-
+Semestre: Segundo Semestre
 
